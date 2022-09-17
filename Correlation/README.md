@@ -6,7 +6,7 @@ srcc_final.csv is the daily Spearman’s rank correlation coefficients between g
 
 The first column is the date
 
-The second column is the Spearman’s rank correlation coefficients between geographic loction ranking ranked by "Proximity to epicenter" and geographic loction ranking ranked by "Aware percentage" (city level)
+The second column is the Spearman’s rank correlation coefficients between geographic loction ranking ranked by "Distance to epicenter" and geographic loction ranking ranked by "Aware percentage" (city level)
 
 The third column is the Spearman’s rank correlation coefficients between geographic loction ranking ranked by "Confirmed covid-19 cases" and geographic loction ranking ranked by "Aware percentage" (province level)
 
