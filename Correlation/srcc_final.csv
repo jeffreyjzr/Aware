@@ -1,5 +1,5 @@
 Spearman's Rank Correlation Coefficient, *(p< 0.1)  **(p< 0.05)  ***(p< 0.001)
-Date,Proximity to epicenter vs Aware percentage (city level), Confirmed covid-19 cases vs Aware percentage (province level), GDP vs Aware percentage (province level)
+Date,Distance to epicenter vs Aware percentage (city level), Confirmed covid-19 cases vs Aware percentage (province level), GDP vs Aware percentage (province level)
 20191201,-0.23994117633655057***,0.12247448713915911,0.3016129032258064*
 20191202,-0.1828300470076606***,0.0,0.47701612903225804***
 20191203,-0.15553471349566278***,0.10206207261596575,0.4814516129032259***
