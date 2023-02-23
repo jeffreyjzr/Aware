@@ -1,0 +1,23 @@
+2020-02-03_23-59-59 89.12% The emergency makeshift hospital, Huoshenshan hospital, opened and a number of large Fangcang shelter hospitals were announced be built
+===================================================================================================================================================
+                                                                        label=1       coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                                           3.1078      0.125     24.809      0.000       2.862       3.353
+C(gender)[T.M]                                                                     -0.2870      0.028    -10.375      0.000      -0.341      -0.233
+C(occupation, Treatment(1))[T.Agriculture_forestry_animalhusbandry_and_fishery]     0.0827      0.730      0.113      0.910      -1.348       1.513
+C(occupation, Treatment(1))[T.Education/Research]                                   0.1060      0.035      3.004      0.003       0.037       0.175
+C(occupation, Treatment(1))[T.Government employee]                                  0.3010      0.083      3.614      0.000       0.138       0.464
+C(occupation, Treatment(1))[T.Hospital staff]                                       0.0279      0.062      0.452      0.652      -0.093       0.149
+C(occupation, Treatment(1))[T.Individual operation/Service staff]                   0.0169      0.048      0.354      0.723      -0.076       0.110
+C(occupation, Treatment(1))[T.Worker]                                               0.0103      0.105      0.098      0.922      -0.196       0.217
+C(education)[T.College_or_Lower]                                                   -0.2055      0.029     -6.982      0.000      -0.263      -0.148
+C(education)[T.Graduate]                                                           -0.0986      0.053     -1.849      0.064      -0.203       0.006
+C(ifhavebaby)[T.1]                                                                  0.1334      0.043      3.138      0.002       0.050       0.217
+C(ifmarried)[T.Y]                                                                   0.1041      0.037      2.786      0.005       0.031       0.177
+age                                                                                -0.2627      0.025    -10.385      0.000      -0.312      -0.213
+purchase                                                                            0.0966      0.009     10.344      0.000       0.078       0.115
+distance                                                                           -0.0835      0.015     -5.424      0.000      -0.114      -0.053
+family                                                                              0.0201      0.003      6.600      0.000       0.014       0.026
+schoolmate                                                                          0.0095      0.004      2.354      0.019       0.002       0.017
+workmate                                                                           -0.0036      0.004     -0.866      0.387      -0.012       0.005
+===================================================================================================================================================
