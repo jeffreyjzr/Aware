@@ -11,4 +11,4 @@ Feature is a directory that contains the time-evolving demographic feature distr
 Time is a directory that contains the time point list for regression models
 
 ## Model
-Model is a directory that contains detailed results from 106 regression models
+Model is a directory that contains python code for regression and detailed results from 106 regression models
